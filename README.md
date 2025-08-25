@@ -31,7 +31,7 @@ An agentic AI system that automatically searches, summarizes, and saves research
 
 ### Option 2: Local Development
 ```bash
-git clone https://github.com/yourusername/ai-research-assistant.git
+git clone https://github.com/AdavayyaMC/ai-research-assistant.git
 cd ai-research-assistant
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate

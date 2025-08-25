@@ -1,0 +1,27 @@
+# Core AI Framework
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-community==0.0.10
+
+# Web Interface
+streamlit==1.29.0
+
+# Search Providers
+requests==2.31.0
+duckduckgo-search==3.9.6
+serpapi==0.1.5
+
+# Environment & Configuration
+python-dotenv==1.0.0
+
+# Data Storage
+sqlite3
+
+# Optional: Google Drive Integration
+google-api-python-client==2.108.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+
+# Development Tools
+pytest==7.4.3
+black==23.10.1
